@@ -11,5 +11,7 @@
       style="max-width: 100%"/>  
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="Node" width="40" height="30"
       style="max-width: 100%"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/typescript/typescript-original.svg" alt="Typescript" width="40" height="30"
+      style="max-width: 100%"/>
 </div>
 
